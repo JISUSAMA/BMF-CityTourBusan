@@ -3,6 +3,19 @@
 ## 프로젝트 소개
 
 ### 보자마자 피트니스 - 시티투어 부산(BOJAMAJA-CYTYTOUR BUSAN)
+
+
+<details>
+<summary> (FIT-TAG) 센서란? </summary>
+<br>
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/6f5d9dae-ac98-41a6-a783-3e7fb61f4c27">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/50c7d061-d1b6-4dc8-ab74-a4db4fc14c49">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/08a41c14-8639-4812-80fa-241ec6027fcc">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/a8f24856-a4bd-4140-b598-d74eddd689bb">
+
+</details>
+
+
 <br>
 
 ## 작업 기간
