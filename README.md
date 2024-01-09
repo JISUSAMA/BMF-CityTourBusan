@@ -2,8 +2,11 @@
 
 ## 프로젝트 소개
 
+<img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/af82dfde-007c-42e4-ba8c-84c29caeea51">
+
 ### 보자마자 피트니스 - 시티투어 부산(BOJAMAJA-CYTYTOUR BUSAN)
 
+보자마자 피트니스는 러닝, 사이클, 밸런스보드 등 대표적인 실내 운동기구와 실감형 게임 콘텐츠의 접목 및 모든 운동기구에 적용이 가능한 센서를 통해 다양한 피트니스 게임을 즐길 수 있게 개발되었습니다.
 
 <details>
 <summary> (FIT-TAG) 센서란? </summary>
@@ -32,14 +35,21 @@ __2023.01 ~ 2023.07(7개월)__
 ## 기여도
 <br>
 
+
+
 __2023.01 ~__
 
 - 시티투어 부산 영문 버전 제작 및 버그 수정
 
 __2023.04 ~__
 
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/8bc6f402-b0cf-4c40-9725-c49040f6ec06">
+
 - 그린라인(부산역) 맵 컨텐츠 추가
-- 마켓 상점 기능(WebView) 추가
+
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/2a7fce40-2a4e-4863-9d1e-c123c85bf860">
+
+- 투어 마켓 상점 기능(WebView) 추가
 
 <br>
 <h2>유튜브 홍보 영상 링크</h2>
