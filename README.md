@@ -4,7 +4,7 @@
 
 <img src="https://github.com/JISUSAMA/UnityStudy/assets/38304918/af82dfde-007c-42e4-ba8c-84c29caeea51">
 
-### 보자마자 피트니스 - 시티투어 부산(BOJAMAJA-CYTYTOUR BUSAN)
+### 보자마자 피트니스 - 시티투어 부산(BOJAMAJA-CITYTOUR BUSAN)
 
 보자마자 피트니스는 러닝, 사이클, 밸런스보드 등 대표적인 실내 운동기구와 실감형 게임 콘텐츠의 접목 및 모든 운동기구에 적용이 가능한 센서를 통해 다양한 피트니스 게임을 즐길 수 있게 개발되었습니다.
 
